@@ -2,7 +2,7 @@
 
 This is copy of Telegram RadioButton style for WPF projects. So, looks like:
 
-![main demo window](./Preview/Image.gif)
+![main window](./RadioButtonWPFStyle/RadioButtonWPFStyle/Preview/Image.gif)
 
 # How to use
 For example u can add to ur App.xaml project file (after Application.Resources)
